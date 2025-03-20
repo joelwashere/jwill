@@ -1,4 +1,3 @@
-import * as THREE from 'three'
 import './App.css'
 
 interface ProjectInfo {
