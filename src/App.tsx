@@ -35,7 +35,7 @@ function App() {
         <div className='h-fit pt-10 border-b'>
           <h1 className='mb-2'>Joel Williams</h1>
           <p className='mt-2 mb-3'>📍 Washington, DC</p>
-          <p className='text-lg'>Hi my name is Joel, I am currently studying Economics and AI and I enjoy building games and simulators as a hobby. I spent the last two years in sales and recently decided to leave and pursue building the future of technology.</p>
+          <p className='text-lg'>Hi my name is Joel, I am currently studying Economics and I enjoy building games and simulators as a hobby. I spent the last two years in sales and I am now pursuing building the future of technology.</p>
           <ul className='font-sans flex gap-4 my-4'>
             <li><a href='https://github.com/joelwashere' target='_blank' className='border py-1 px-2 rounded'>👨‍💻 GitHub</a></li>
             {/* <li><a href='#' target='_blank' className='border py-1 px-2 rounded'>💼 LinkedIn</a></li>
