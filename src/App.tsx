@@ -43,7 +43,7 @@ function App() {
             {/* <li><a href='#' className='border py-1 px-2 rounded'>🎥 Youtube</a></li> */}
           </ul>
         </div>
-        <div className='mt-3 hidden'>
+        <div className='mt-3'>
           <h2 className='text-xl'>Projects</h2>
           <div className='gap-4 mt-2'>
             <Project name={'Graph'} image={'src/assets/react.svg'} description='A graphing calculator' />
