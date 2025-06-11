@@ -38,17 +38,17 @@ function App() {
           <p className='mt-2 mb-3'>📍 Tokyo, Japan</p>
           <p className='text-lg'>Hi my name is Joel, I am currently studying Economics and I enjoy building games and simulators as a hobby. I spent the last two years in sales and now I am building products that help people accomplish their dreams.</p>
           <ul className='font-sans flex gap-4 my-4'>
+            <li><a href='#' target='_blank' className='border py-1 px-2 rounded'>🎥 YouTube</a></li>
             <li><a href='https://github.com/joelwashere' target='_blank' className='border py-1 px-2 rounded'>👨‍💻 GitHub</a></li>
-            {/* <li><a href='#' target='_blank' className='border py-1 px-2 rounded'>💼 LinkedIn</a></li>
-            <li><a href='#' target='_blank' className='border py-1 px-2 rounded'>🐤 X / Twitter</a></li> */}
+            {/* <li><a href='#' target='_blank' className='border py-1 px-2 rounded'>🐤 X / Twitter</a></li> */}
             {/* <li><a href='#' className='border py-1 px-2 rounded'>🎥 Youtube</a></li> */}
           </ul>
         </div>
         <div className='mt-3'>
           <h2 className='text-xl'>Projects</h2>
           <div className='flex flex-col gap-4 mt-2'>
-            <Project name={'Graph'} image={'src/assets/react.svg'} description='A graphing calculator' link="https://interpretbetter.com/graph" />
-            <Project name={'Quicksub'} image={'src/assets/react.svg'} description='A video to transcription app' link="https://quicksub.app" />
+            <Project name={'Graph'} image={''} description='A graphing calculator' link="https://interpretbetter.com/graph" />
+            <Project name={'Quicksub'} image={''} description='A video to transcription app' link="https://quicksub.app" />
             <Project name={'Nemo'} description='A people search tool' link="#" />
           </div>
         </div>
