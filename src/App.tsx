@@ -49,7 +49,7 @@ function App() {
           <div className='flex flex-col gap-4 mt-2'>
             <Project name={'Graph'} image={''} description='A graphing calculator' link="https://interpretbetter.com/graph" />
             <Project name={'Quicksub'} image={''} description='A video transcription app' link="https://quicksub.app" />
-            <Project name={'Nemo'} description='Research Agents for sellers' link="#" />
+            <Project name={'Nemo'} description='Research Agents for sellers' link="https://nemoagents.com" />
           </div>
         </div>
       </div>
