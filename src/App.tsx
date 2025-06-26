@@ -48,8 +48,8 @@ function App() {
           <h2 className='text-xl'>Projects</h2>
           <div className='flex flex-col gap-4 mt-2'>
             <Project name={'Graph'} image={''} description='A graphing calculator' link="https://interpretbetter.com/graph" />
-            <Project name={'Quicksub'} image={''} description='A video to transcription app' link="https://quicksub.app" />
-            <Project name={'Nemo'} description='A people search tool' link="#" />
+            <Project name={'Quicksub'} image={''} description='A video transcription app' link="https://quicksub.app" />
+            <Project name={'Nemo'} description='Research Agents for sellers' link="#" />
           </div>
         </div>
       </div>
